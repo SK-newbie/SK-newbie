@@ -1,29 +1,77 @@
-# Hi there, I'm SK-newbie 👋
+# 👋 Hi, I'm sk-newbie
 
-## About Me
-I am a passionate Full Stack Game Developer with extensive experience in designing and developing engaging and immersive video games. My journey in the gaming industry has equipped me with the skills to tackle both front-end and back-end development, ensuring a seamless integration of gameplay mechanics and user experiences.
-
-## Skills
-- **Languages:** JavaScript, TypeScript, C#, Python
-- **Front-End:** React, Unity, HTML, CSS
-- **Back-End:** Node.js, Express, MongoDB, RESTful APIs
-- **Game Development:** Unity, Unreal Engine, Game Design, 3D Modeling
-- **Tools & Technologies:** Git, Docker, Jenkins, Agile Methodologies
-
-## Achievements
-- Developed a multiplayer online game with 1000+ active users.
-- Collaborated with a team to create a mobile game that achieved top rankings in the App Store.
-- Contributed to open-source game development projects, enhancing gameplay features and fixing bugs.
-
-## Technologies
-- **Game Engines:** Unity, Unreal Engine
-- **Frameworks:** React, Express
-- **Databases:** MongoDB, Firebase
-- **Version Control:** Git, GitHub
-
-## Let's Connect
-I'm always open to discussing new projects, collaborations, and opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sk-newbie) or check out my portfolio at [myportfolio.com](http://myportfolio.com)!
+💻 Computer Science | ⚡ Always Learning
 
 ---
 
-*Last Updated: 2026-04-30 13:39:56 UTC*
+## 🚀 About Me
+
+* 🎓 I'm currently studying **Computer Science**
+* 💻 Learning **Programming and Web Development**
+
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+
+* JavaScript
+* HTML & CSS
+
+**Tools & Technologies:**
+
+* Git & GitHub
+
+* VS Code
+
+
+---
+
+## 📚 Currently Learning
+
+* Advanced JavaScript
+
+---
+
+## 📌 Projects
+
+
+
+* 🔹 Beginner Web Projects
+
+
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sk-newbie\&show_icons=true\&theme=radical\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie\&layout=compact\&theme=radical\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sk-newbie\&theme=radical\&hide_border=true)
+
+---
+
+## 🌱 Goals for 2026
+
+* Build real-world security projects
+* Contribute to open source
+* Master penetration testing
+* Start bug bounty hunting
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: [https://github.com/sk-newbie](https://github.com/sk-newbie)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy exploring tech, breaking things (ethically 😏), and understanding how systems really work.
+
+---
+
+⭐ *"Stay curious. Stay dangerous (ethically)."*
