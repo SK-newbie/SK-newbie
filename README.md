@@ -13,7 +13,6 @@
 * 🧩 Learning how to solve problems using code
 * 🎯 Goal: Become a **skilled Software Engineer** and build impactful projects
 
----
 
 ## 🧰 Skills
 
@@ -21,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=js,scss,html,css,git,github,vscode" />
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -34,23 +33,20 @@
   <img src="https://streak-stats.demolab.com/?user=sk-newbie&theme=github-dark&hide_border=true" height="120"/>
 </p>
 
----
+
 
 ## 🔥 Contribution Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-newbie\&theme=github-dark\&hide_border=true\&height=150)
 
----
 
-
----
 
 ## 📌 Projects
 
 * 🔹 Beginner Web Apps (HTML, CSS, JS)
 * 🔹 Practice Projects from Tutorials
 
----
+
 
 ## 🌱 Goals for 2026
 
@@ -68,7 +64,6 @@
 ## ⚡ Fun Fact
 
 I enjoy turning ideas into code and watching things come to life from scratch.
-
 
 
 ⭐ *"Code. Break. Fix. Repeat."*
