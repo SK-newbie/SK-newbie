@@ -6,8 +6,6 @@
 
 💻 Software Engineering Newbie | 🧠 Problem Solver | ⚡ Learning by Building
 
----
-
 ## 🚀 About Me
 
 * 🎓 Beginner in **Software Engineering**
@@ -28,19 +26,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sk-newbie&show_icons=true&theme=github_dark&hide_border=true" height="100" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie&layout=compact&theme=github_dark&hide_border=true" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sk-newbie&show_icons=true&theme=github_dark&hide_border=true" height="120" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie&layout=compact&theme=github_dark&hide_border=true" height="120" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sk-newbie&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sk-newbie&theme=github-dark&hide_border=true" height="120"/>
 </p>
 
 ---
 
 ## 🔥 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-newbie\&theme=github-dark\&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-newbie\&theme=github-dark\&hide_border=true\&height=150)
 
 ---
 
@@ -61,18 +59,16 @@
 * Strengthen problem-solving skills
 * Learn system design basics
 
----
 
 ## 📫 Connect With Me
 
 * GitHub: [https://github.com/sk-newbie](https://github.com/sk-newbie)
-
----
+  
 
 ## ⚡ Fun Fact
 
 I enjoy turning ideas into code and watching things come to life from scratch.
 
----
+
 
 ⭐ *"Code. Break. Fix. Repeat."*
