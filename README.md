@@ -1,64 +1,81 @@
 # 👋 Hi, I'm sk-newbie
 
-💻 Computer Science | ⚡ Always Learning
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Newbie;Learning+by+Building;Clean+Code+Enthusiast;Future+Full-Stack+Engineer" alt="Typing SVG" />
+</p>
+
+💻 Software Engineering Newbie | 🧠 Problem Solver | ⚡ Learning by Building
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 I'm currently studying **Computer Science**
-* 💻 Learning **Programming and Web Development**
-
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**
-
-* JavaScript
-* HTML & CSS
-
-**Tools & Technologies:**
-
-* Git & GitHub
-
-* VS Code
-
+* 🎓 Beginner in **Software Engineering**
+* 💡 Interested in **Building real-world applications & clean code practices**
+* 🧩 Learning how to solve problems using code
+* 🎯 Goal: Become a **skilled Software Engineer** and build impactful projects
 
 ---
 
-## 📚 Currently Learning
+## 🧰 Skills
 
-* Advanced JavaScript
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,git,github,vscode,linux" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sk-newbie&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie&layout=compact&theme=github_dark&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sk-newbie&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-newbie\&theme=github-dark\&hide_border=true)
+
+---
+
+## 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Fira%20Code&ext=heatmap" height="200" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hackerrank.com/">
+    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📌 Projects
 
+* 🔹 Beginner Web Apps (HTML, CSS, JS)
+* 🔹 Small Java Programs
+* 🔹 Practice Projects from Tutorials
 
-
-* 🔹 Beginner Web Projects
-
-
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sk-newbie\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie\&layout=compact\&theme=radical\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sk-newbie\&theme=radical\&hide_border=true)
+*(More coming soon...)*
 
 ---
 
 ## 🌱 Goals for 2026
 
-* Build real-world security projects
+* Build and deploy full-stack projects
 * Contribute to open source
-* Master penetration testing
-* Start bug bounty hunting
+* Strengthen problem-solving skills
+* Learn system design basics
 
 ---
 
@@ -70,8 +87,8 @@
 
 ## ⚡ Fun Fact
 
-I enjoy exploring tech, breaking things (ethically 😏), and understanding how systems really work.
+I enjoy turning ideas into code and watching things come to life from scratch.
 
 ---
 
-⭐ *"Stay curious. Stay dangerous (ethically)."*
+⭐ *"Code. Break. Fix. Repeat."*
