@@ -20,7 +20,7 @@
 ## 🧰 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,scss,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -28,8 +28,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sk-newbie&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sk-newbie&show_icons=true&theme=github_dark&hide_border=true" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie&layout=compact&theme=github_dark&hide_border=true" height="100" />
 </p>
 
 <p align="center">
@@ -44,29 +44,13 @@
 
 ---
 
-## 🧠 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Fira%20Code&ext=heatmap" height="200" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
 
 ---
 
 ## 📌 Projects
 
 * 🔹 Beginner Web Apps (HTML, CSS, JS)
-* 🔹 Small Java Programs
 * 🔹 Practice Projects from Tutorials
-
-*(More coming soon...)*
 
 ---
 
