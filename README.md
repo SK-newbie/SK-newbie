@@ -1,7 +1,7 @@
-# 👋 Hi, I'm sk-newbie
+<h1 align='center'> 👋 Hi, I'm sk-newbie</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Newbie;Learning+by+Building;Clean+Code+Enthusiast;Future+Full-Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sk-Newbie;Software+Engineering+Newbie;Learning+by+Building;Clean+Code+Enthusiast;Future+Full-Stack+Engineer" alt="Typing SVG" />
 </p>
 
 💻 Software Engineering Newbie | 🧠 Problem Solver | ⚡ Learning by Building
@@ -19,7 +19,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,scss,html,css,git,github,vscode" />
 </p>
-
 
 
 ## 📊 GitHub Stats
