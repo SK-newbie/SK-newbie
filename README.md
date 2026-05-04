@@ -22,20 +22,18 @@
 
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sk-newbie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sk-newbie&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-newbie&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <!-- Streak Stats (alternative host if demolab is down) -->
-  <img src="https://streak-stats.demolab.com/?user=sk-newbie&theme=github-dark&hide_border=true&date_format=M%20j%2C%20Y" height="150" alt="Contribution Streak" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=sk-newbie&theme=github-dark&hide_border=true" height="160"/>
 </p>
-
 
 ## 🔥 Contribution Activity
 
