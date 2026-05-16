@@ -38,7 +38,7 @@
 
 ## 🔥 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-newbie\&theme=github-dark\&hide_border=true\&height=150)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sk-newbie&theme=github-dark&hide_border=true&height=150)
 
 
 
